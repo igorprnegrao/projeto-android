@@ -161,7 +161,7 @@ aside p {
     padding: 10px;
 }
 aside ul {
-    list-style-type: '\2714\00A0\00A0';
+    list-style-type: '\2714\00A0';
     list-style-position: inside;
     padding: 10px;
     columns: 2;
